@@ -1,5 +1,5 @@
 # PipenGame
-JavaFX 
+JavaFX -DragDrop Events-Pane-GridPane-Animation
 
  	Problem Definition
   In this fun game you have to complete the pipes by moving the desired frames. As soon as your pipes are correctly identified, a ball will pass through the pipes from the starting position to the end position.
